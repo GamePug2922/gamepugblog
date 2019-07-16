@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://gamepug.gq/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
